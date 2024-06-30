@@ -35,7 +35,7 @@ const Hero = () => {
 
 
                 <p className='text-center text-hint md:tracking-wider mb-4'>
-                    Don't worry about gas⛽ anymore
+                    Don&apos;t worry about gas⛽ anymore
                 </p>
 
                 <a href='https://tonkeeper.com/' target='_blank'><DefaultButton title="Download Tonkeeper" icon={<LuDownload />} position='left' /></a>
