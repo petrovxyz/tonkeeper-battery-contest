@@ -1,3 +1,7 @@
+🏆 [Tonkeeper Website Builder Contest Winner](https://t.me/tonkeeper_news/143)
+
+Task was to design and mark-up a single web page about [Tonkeeper Battery](https://t.me/tonkeeper_news/86). The goal of the page is to explain what this feature does and its key use cases: gasless payments and swaps for USDT, Notcoin and other tokens; NFT transfers; funding with in-app purchases or crypto. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
