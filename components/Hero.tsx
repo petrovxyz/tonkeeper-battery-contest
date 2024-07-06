@@ -23,6 +23,14 @@ const Hero = () => {
 
         <div className='flex justify-center relative my-20 z-10'>
             <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center'>
+                <div className='pb-3 space-y-1'>
+                <h2 className='uppercase tracking-widest text-xs text-center text-yellow-100 max-w-80'>
+                    <a href="https://t.me/tonkeeper_news/143" target='_blank'>🏆 Tonkeeper Contest Winner</a>
+                </h2>
+                <h2 className='uppercase tracking-widest text-xs text-center text-blue-300 max-w-80'>
+                    <a href="https://t.me/petrovxyz" target='_blank'>Contact author</a>
+                </h2>
+                </div>
                 <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80'>
                     Presenting new feature for:<FlipWords words={['swapping', 'sending', 'trading', 'staking', 'paying']}/>
                 </h2>
